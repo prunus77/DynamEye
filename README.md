@@ -1,7 +1,7 @@
 # DynamEye
 
 ## Here are Posters explaing what the project is:
-## Overall Summary of the Product: [DynamEye Prouct](DempseyPoster.pdf)
+## Overall Summary of the Product: [DynamEye Product](DynamEye/Buisness Poster.pdf)
 ## User Research and Tech: [Design and Tech](TechPoster.pdf)
 ## Market and Analysis: [Market and Business](BuisnessPoster.pdf)
 
