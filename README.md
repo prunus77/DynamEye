@@ -1,9 +1,9 @@
 # DynamEye
 
 ## Here are Posters explaing what the project is:
-## Overall Summary of the Product: [DynamEye Product](Buisness%20Poster.pdf)
-## User Research and Tech: [Design and Tech](TechPoster.pdf)
-## Market and Analysis: [Market and Business](BuisnessPoster.pdf)
+## Overall Summary of the Product: [DynamEye Product](Dempsey%20Poster.pdf)
+## User Research and Tech: [Design and Tech](Tech%20Poster.pdf)
+## Market and Analysis: [Market and Business](Buisness%20Poster.pdf)
 
 A Flutter proof-of-concept app designed to demonstrate a dynamic zooming system for assistive navigation.
 The app overlays a circular zoom region at the center of a live camera feed, allowing users to selectively magnify parts of their view while keeping the surroundings naturally visible.
